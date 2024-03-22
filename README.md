@@ -15,8 +15,14 @@
 3.点击选择输出文件夹后点击爬取开始调用爬取脚本。
 4.爬取成功后点击拼接，将爬取后的文件夹调用GDAL进行拼接。
 ![image](https://github.com/ZhengYongHe/Tifer/assets/45898487/e9eca96f-9c3b-4b6b-9c61-d798bc0cac02)
+![image](https://github.com/ZhengYongHe/Tifer/assets/45898487/9e473474-3036-4f22-be1f-73f3be048cc3)
+![image](https://github.com/ZhengYongHe/Tifer/assets/45898487/0aef424e-5b1b-4318-8736-7888449d191e)
 
-tips:代码仅为学习代码，不对任何二开和商业行为负责。另外，爬取行为不可取。
+
+
+tips:
+1.代码仅为学习代码，不对任何二开和商业行为负责。另外，爬取行为不可取。
+2.框选的范围不等于最终拼接结果，因为拼接是基于爬取的瓦片，瓦片是基于框选范围所包括的所有瓦片。
 
 
 
