@@ -1,5 +1,5 @@
-# MapDownloadAndPuzzle 
-这是一款开源爬取天地图影像并拼接成Tif的工具  
+# MapDownloadAndPuzzle   
+这是一款用于爬取天地图影像瓦片数据，瓦片数据拼接成Tif的开源GIS二次开发工具  
 
 框架及依赖如下，python已包括在项目内  
 .net6.0-windows  
