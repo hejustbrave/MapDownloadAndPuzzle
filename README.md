@@ -1,4 +1,4 @@
-# Tifer  
+# MapDownloadAndPuzzle 
 这是一款开源爬取天地图影像并拼接成Tif的工具  
 
 框架及依赖如下，python已包括在项目内  
